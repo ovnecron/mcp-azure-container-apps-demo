@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/McpAzureContainerAppsDemo.Client/McpAzureContainerAppsDemo.Client.csproj" />
+    <Project Path="src/McpAzureContainerAppsDemo.Server/McpAzureContainerAppsDemo.Server.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/McpAzureContainerAppsDemo.Server.Tests/McpAzureContainerAppsDemo.Server.Tests.csproj" />
+  </Folder>
+</Solution>
